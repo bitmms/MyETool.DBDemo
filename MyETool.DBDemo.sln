@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_NET48_FreeSQLDemo", "WP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_NET8_FreeSQLDemo", "WPF_NET8_FreeSQLDemo\WPF_NET8_FreeSQLDemo.csproj", "{46EA6E3F-6259-4EBF-B267-10AE9E4E7256}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_NET8_SqlSugarDemo", "WPF_NET8_SqlSugarDemo\WPF_NET8_SqlSugarDemo.csproj", "{36BFFD75-8A0C-45C9-B76D-5E353B7B9941}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{46EA6E3F-6259-4EBF-B267-10AE9E4E7256}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46EA6E3F-6259-4EBF-B267-10AE9E4E7256}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46EA6E3F-6259-4EBF-B267-10AE9E4E7256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36BFFD75-8A0C-45C9-B76D-5E353B7B9941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BFFD75-8A0C-45C9-B76D-5E353B7B9941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BFFD75-8A0C-45C9-B76D-5E353B7B9941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BFFD75-8A0C-45C9-B76D-5E353B7B9941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
